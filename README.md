@@ -49,7 +49,7 @@ Follow these steps to set up and run the e-commerce back-end project locally:
 
 ## Deployment
 
-Link to the live application deployed in Render: <a href="https://jate-a7p6.onrender.com"></a>
+Link to the live application deployed in Render: <a href="https://jate-a7p6.onrender.com">J.A.T.E</a>
 
 
 ## License
