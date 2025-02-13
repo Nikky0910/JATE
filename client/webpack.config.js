@@ -16,6 +16,10 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
+      new HtmlWebpackPlugin({
+        template: './index.html',
+        title: 'Contact Cards'
+      }),
       // TODO: Add and configure workbox plugins for a service worker and manifest file.
       new InjectManifest({
         swSrc: './src-sw.js',
